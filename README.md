@@ -1,4 +1,4 @@
-# Customer-Segmentation
+# Customer-Segmentation with Excel
 Main tasks for this corporate project :  
 - Data Quality Assessment (Assessment of data quality and completeness in preparation for analysis).
 - Data Analysis (Targeting high value customers based on customer demographics and attributes).

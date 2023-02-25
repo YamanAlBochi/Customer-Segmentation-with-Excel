@@ -4,4 +4,4 @@ Main tasks for this corporate project :
 - Data Analysis (Targeting high value customers based on customer demographics and attributes).
 - Data Insights and Presentation (Using visualisations to present insights).
 
-(To be Continued)
+(To be Continued).

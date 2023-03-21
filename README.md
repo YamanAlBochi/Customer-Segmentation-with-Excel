@@ -41,3 +41,22 @@ Task 2 :
  - Creating Pivot Table for Car owned in different states 
  - Creating Pivot Table for Bike Related Purchases & Indsutry  
  - Creating Pivot Table for Profit & Industry   
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ Task 3 :
+ 
+- develop a dashboard that we can present to the client at our next meeting.
+
+- display the data summary and results of the analysis in a dashboard ( using Tableau or Microsoft BI).
+
+- deliver a maximum of 3 dashboard views/tabs, with creativity in the layout and presentation.
+
+- Some important things to be kept in mind in business context during presention of findings:
+
+- What are the trends in the underlying data?
+
+- Which customer segment has the highest customer value?
+
+- What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
+
+- What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?

@@ -5,3 +5,21 @@ Main tasks for this corporate project :
 - Data Insights and Presentation (Using visualisations to present insights).
 
 (To be Continued)....
+
+
+
+Task 1 : 
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Task 2 : 
+
+- I analyse and recommend which of these 1000 new customers should be targeted to drive the most value for the organisation, using the existing 3 datasets (Customer demographic, customer address and transactions).
+
+- To build this recommendation, I start with a PowerPoint presentation which outlines the approach which we will be taking. The client has agreed on a 3 week scope with the following 3 phases as follows - Data Exploration; Model Development; Interpretation.
+
+- Third step is I prepare a detailed approach for completing the analysis including activities – i.e. understanding the data distributions, feature engineering, data transformations, modelling, results interpretation and reporting.

@@ -10,7 +10,7 @@ Main tasks for this corporate project :
 
 Task 1 : 
 
-- performing preliminary data exploration and identify ways to improve the quality of of my clients data using the information provided in the datasets.......
+- performing preliminary data exploration and identify ways to improve the quality of of my clients data using the information provided in the datasets......
 
 - drafting an email to the client identifying the data quality issues and strategies to mitigate these issues by quoting referencing to the ‘Data Quality Framework Table’.
 
